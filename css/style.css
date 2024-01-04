@@ -28,12 +28,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #e94057;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #e94057;
   text-decoration: none;
 }
 
@@ -801,7 +801,7 @@ section .container {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: #e94057;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -938,6 +938,7 @@ section .container {
   top: 0;
   bottom: 0;
   overflow-y: auto;
+  border-radius: 20px;
 }
 
 .portfolio-details .container {
@@ -995,7 +996,7 @@ section .container {
 }
 
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: #e94057;
 }
 
 /*--------------------------------------------------------------
@@ -1180,7 +1181,7 @@ section .container {
 }
 
 .credits a {
-  color: #18d26e;
+  color: #e94057;
   transition: 0.3s;
 }
 

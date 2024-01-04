@@ -225,6 +225,8 @@
    * Portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
+    spaceBetween: 0,
+    centeredSlides: 0,
     speed: 400,
     loop: true,
     autoplay: {
